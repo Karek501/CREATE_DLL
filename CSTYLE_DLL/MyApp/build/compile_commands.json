@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\MyApp.dir\\src\\main.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\2_cstyle_dll\\MyApp\\src\\main.cpp",
+  "file": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/src/main.cpp",
+  "output": "CMakeFiles/MyApp.dir/src/main.cpp.obj"
+}
+]

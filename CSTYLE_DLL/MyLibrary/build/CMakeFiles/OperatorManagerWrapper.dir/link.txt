@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\OperatorManagerWrapper.dir/objects.a
+E:\msys64\mingw64\bin\ar.exe qc CMakeFiles\OperatorManagerWrapper.dir/objects.a @CMakeFiles\OperatorManagerWrapper.dir\objects1.rsp
+E:\msys64\mingw64\bin\g++.exe -g -Wl,--dependency-file,CMakeFiles\OperatorManagerWrapper.dir\link.d -shared -o libOperatorManagerWrapper.dll -Wl,--out-implib,libOperatorManagerWrapper.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\OperatorManagerWrapper.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\OperatorManagerWrapper.dir\linkLibs.rsp

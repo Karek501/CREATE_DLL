@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyLibrary/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -DOperatorManagerWrapper_EXPORTS  -g -std=gnu++11 -o CMakeFiles\\OperatorManagerWrapper.dir\\Operator.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\2_cstyle_dll\\MyLibrary\\Operator.cpp",
+  "file": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyLibrary/Operator.cpp",
+  "output": "CMakeFiles/OperatorManagerWrapper.dir/Operator.cpp.obj"
+},
+{
+  "directory": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyLibrary/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -DOperatorManagerWrapper_EXPORTS  -g -std=gnu++11 -o CMakeFiles\\OperatorManagerWrapper.dir\\Manager.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\2_cstyle_dll\\MyLibrary\\Manager.cpp",
+  "file": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyLibrary/Manager.cpp",
+  "output": "CMakeFiles/OperatorManagerWrapper.dir/Manager.cpp.obj"
+},
+{
+  "directory": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyLibrary/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -DOperatorManagerWrapper_EXPORTS  -g -std=gnu++11 -o CMakeFiles\\OperatorManagerWrapper.dir\\Wrapper.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\2_cstyle_dll\\MyLibrary\\Wrapper.cpp",
+  "file": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyLibrary/Wrapper.cpp",
+  "output": "CMakeFiles/OperatorManagerWrapper.dir/Wrapper.cpp.obj"
+},
+{
+  "directory": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyLibrary/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -DOperatorManagerWrapper_EXPORTS  -g -std=gnu++11 -o CMakeFiles\\OperatorManagerWrapper.dir\\API.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\2_cstyle_dll\\MyLibrary\\API.cpp",
+  "file": "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyLibrary/API.cpp",
+  "output": "CMakeFiles/OperatorManagerWrapper.dir/API.cpp.obj"
+}
+]
