@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/src/main.cpp" "CMakeFiles/MyApp.dir/src/main.cpp.obj" "gcc" "CMakeFiles/MyApp.dir/src/main.cpp.obj.d"
-  "" "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.exe" "gcc" "CMakeFiles/MyApp.dir/link.d"
+  "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/src/main.cpp" "CMakeFiles/MyApp.dir/src/main.cpp.obj" "gcc" "CMakeFiles/MyApp.dir/src/main.cpp.obj.d"
+  "" "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.exe" "gcc" "CMakeFiles/MyApp.dir/link.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

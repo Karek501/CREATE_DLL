@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin"
+			"value" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build"
+			"value" : "d:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -599,7 +599,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -671,7 +671,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp"
+			"value" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1307,7 +1307,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/include"
+			"value" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/include"
 		},
 		{
 			"name" : "LIBS_PATH",
@@ -1319,7 +1319,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/libs"
+			"value" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/libs"
 		},
 		{
 			"name" : "MyApp_BINARY_DIR",
@@ -1331,7 +1331,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build"
+			"value" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/build"
 		},
 		{
 			"name" : "MyApp_IS_TOP_LEVEL",
@@ -1355,7 +1355,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp"
+			"value" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp"
 		},
 		{
 			"name" : "SRC_PATH",
@@ -1367,7 +1367,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/src"
+			"value" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/src"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

@@ -53,10 +53,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp
+CMAKE_SOURCE_DIR = D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build
+CMAKE_BINARY_DIR = D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -151,14 +151,14 @@ src/clean:
 CMakeFiles/MyApp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyApp.dir\build.make CMakeFiles/MyApp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyApp.dir\build.make CMakeFiles/MyApp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build\CMakeFiles --progress-num=1,2 "Built target MyApp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build\CMakeFiles --progress-num=1,2 "Built target MyApp"
 .PHONY : CMakeFiles/MyApp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/MyApp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/MyApp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build\CMakeFiles 0
 .PHONY : CMakeFiles/MyApp.dir/rule
 
 # Convenience name for target.

@@ -29,15 +29,15 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake"
-  "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/CMakeLists.txt"
-  "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/CMakeLists.txt"
+  "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/CMakeLists.txt"
+  "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/CMakeLists.txt"
   "CMakeFiles/3.27.0-rc3/CMakeCCompiler.cmake"
   "CMakeFiles/3.27.0-rc3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.27.0-rc3/CMakeRCCompiler.cmake"
   "CMakeFiles/3.27.0-rc3/CMakeSystem.cmake"
-  "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/include/CMakeLists.txt"
-  "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/libs/CMakeLists.txt"
-  "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/src/CMakeLists.txt"
+  "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/include/CMakeLists.txt"
+  "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/libs/CMakeLists.txt"
+  "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/src/CMakeLists.txt"
   )
 
 # The corresponding makefile is:

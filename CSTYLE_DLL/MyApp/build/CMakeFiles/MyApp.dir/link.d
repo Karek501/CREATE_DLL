@@ -1,4 +1,4 @@
-D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\bin\MyApp.exe: \
+D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\bin\MyApp.exe: \
   E:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/crt2.o \
   E:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o \
   CMakeFiles\MyApp.dir/objects.a \

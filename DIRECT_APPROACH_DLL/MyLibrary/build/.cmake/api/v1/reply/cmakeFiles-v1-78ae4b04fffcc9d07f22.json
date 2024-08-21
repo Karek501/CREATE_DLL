@@ -149,25 +149,13 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
-		},
-		{
-			"path" : "src/CMakeLists.txt"
-		},
-		{
-			"path" : "include/CMakeLists.txt"
-		},
-		{
-			"path" : "libs/CMakeLists.txt"
-		},
-		{
-			"path" : "bin/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build",
-		"source" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp"
+		"build" : "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyLibrary/build",
+		"source" : "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyLibrary"
 	},
 	"version" : 
 	{

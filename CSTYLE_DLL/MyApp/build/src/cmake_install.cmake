@@ -1,4 +1,4 @@
-# Install script for directory: D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/src
+# Install script for directory: D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

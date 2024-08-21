@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp
+CMAKE_SOURCE_DIR = D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build
+CMAKE_BINARY_DIR = D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/MyApp.dir/depend.make
@@ -69,18 +69,18 @@ include CMakeFiles/MyApp.dir/progress.make
 include CMakeFiles/MyApp.dir/flags.make
 
 CMakeFiles/MyApp.dir/src/main.cpp.obj: CMakeFiles/MyApp.dir/flags.make
-CMakeFiles/MyApp.dir/src/main.cpp.obj: D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/src/main.cpp
+CMakeFiles/MyApp.dir/src/main.cpp.obj: D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/src/main.cpp
 CMakeFiles/MyApp.dir/src/main.cpp.obj: CMakeFiles/MyApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyApp.dir/src/main.cpp.obj"
-	E:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyApp.dir/src/main.cpp.obj -MF CMakeFiles\MyApp.dir\src\main.cpp.obj.d -o CMakeFiles\MyApp.dir\src\main.cpp.obj -c D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyApp.dir/src/main.cpp.obj"
+	E:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyApp.dir/src/main.cpp.obj -MF CMakeFiles\MyApp.dir\src\main.cpp.obj.d -o CMakeFiles\MyApp.dir\src\main.cpp.obj -c D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\src\main.cpp
 
 CMakeFiles/MyApp.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyApp.dir/src/main.cpp.i"
-	E:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\src\main.cpp > CMakeFiles\MyApp.dir\src\main.cpp.i
+	E:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\src\main.cpp > CMakeFiles\MyApp.dir\src\main.cpp.i
 
 CMakeFiles/MyApp.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyApp.dir/src/main.cpp.s"
-	E:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\src\main.cpp -o CMakeFiles\MyApp.dir\src\main.cpp.s
+	E:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\src\main.cpp -o CMakeFiles\MyApp.dir\src\main.cpp.s
 
 # Object files for target MyApp
 MyApp_OBJECTS = \
@@ -89,17 +89,17 @@ MyApp_OBJECTS = \
 # External object files for target MyApp
 MyApp_EXTERNAL_OBJECTS =
 
-D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/src/main.cpp.obj
-D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/build.make
-D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/compiler_depend.ts
-D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/linkLibs.rsp
-D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/objects1.rsp
-D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\bin\MyApp.exe"
+D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/src/main.cpp.obj
+D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/build.make
+D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/compiler_depend.ts
+D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/linkLibs.rsp
+D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/objects1.rsp
+D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\bin\MyApp.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\MyApp.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/MyApp.dir/build: D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.exe
+CMakeFiles/MyApp.dir/build: D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.exe
 .PHONY : CMakeFiles/MyApp.dir/build
 
 CMakeFiles/MyApp.dir/clean:
@@ -107,6 +107,6 @@ CMakeFiles/MyApp.dir/clean:
 .PHONY : CMakeFiles/MyApp.dir/clean
 
 CMakeFiles/MyApp.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build D:\Recherches\MyCPlusPlus\2_cstyle_dll\MyApp\build\CMakeFiles\MyApp.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build D:\Recherches\MyCPlusPlus\DLL_creation\CSTYLE_DLL\MyApp\build\CMakeFiles\MyApp.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/MyApp.dir/depend
 

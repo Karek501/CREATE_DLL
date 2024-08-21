@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.exe"
+			"path" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.exe"
 		},
 		{
-			"path" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/bin/MyApp.pdb"
+			"path" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/bin/MyApp.pdb"
 		}
 	],
 	"backtrace" : 1,

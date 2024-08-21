@@ -94,7 +94,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "MyApp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-MyApp-Debug-b267e1a4854dfca5a496.json",
+					"jsonFile" : "target-MyApp-Debug-a33171cf3a95357df5fa.json",
 					"name" : "MyApp",
 					"projectIndex" : 0
 				}
@@ -104,8 +104,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build",
-		"source" : "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp"
+		"build" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/build",
+		"source" : "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp"
 	},
 	"version" : 
 	{

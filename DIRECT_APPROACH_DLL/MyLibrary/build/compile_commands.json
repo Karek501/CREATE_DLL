@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyLibrary/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -DMYLIBRARY_EXPORT -DOperatorManagerWrapper_EXPORTS  -g -std=gnu++11 -o CMakeFiles\\OperatorManagerWrapper.dir\\Operator.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyLibrary\\Operator.cpp",
+  "file": "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyLibrary/Operator.cpp",
+  "output": "CMakeFiles/OperatorManagerWrapper.dir/Operator.cpp.obj"
+},
+{
+  "directory": "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyLibrary/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -DMYLIBRARY_EXPORT -DOperatorManagerWrapper_EXPORTS  -g -std=gnu++11 -o CMakeFiles\\OperatorManagerWrapper.dir\\Manager.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyLibrary\\Manager.cpp",
+  "file": "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyLibrary/Manager.cpp",
+  "output": "CMakeFiles/OperatorManagerWrapper.dir/Manager.cpp.obj"
+},
+{
+  "directory": "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyLibrary/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -DMYLIBRARY_EXPORT -DOperatorManagerWrapper_EXPORTS  -g -std=gnu++11 -o CMakeFiles\\OperatorManagerWrapper.dir\\Wrapper.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyLibrary\\Wrapper.cpp",
+  "file": "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyLibrary/Wrapper.cpp",
+  "output": "CMakeFiles/OperatorManagerWrapper.dir/Wrapper.cpp.obj"
+}
+]

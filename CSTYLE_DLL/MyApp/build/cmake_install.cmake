@@ -1,4 +1,4 @@
-# Install script for directory: D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp
+# Install script for directory: D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,10 +39,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build/src/cmake_install.cmake")
-  include("D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build/include/cmake_install.cmake")
-  include("D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build/libs/cmake_install.cmake")
-  include("D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build/bin/cmake_install.cmake")
+  include("D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/build/src/cmake_install.cmake")
+  include("D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/build/include/cmake_install.cmake")
+  include("D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/build/libs/cmake_install.cmake")
+  include("D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/build/bin/cmake_install.cmake")
 
 endif()
 
@@ -54,5 +54,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Recherches/MyCPlusPlus/2_cstyle_dll/MyApp/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Recherches/MyCPlusPlus/DLL_creation/CSTYLE_DLL/MyApp/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
