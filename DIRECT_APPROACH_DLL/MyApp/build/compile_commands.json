@@ -1,7 +1,7 @@
 [
 {
   "directory": "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/build",
-  "command": "E:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\MyApp.dir\\src\\main.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyApp\\src\\main.cpp",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/MyApp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\MyApp.dir\\src\\main.cpp.obj -c D:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyApp\\src\\main.cpp",
   "file": "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/src/main.cpp",
   "output": "CMakeFiles/MyApp.dir/src/main.cpp.obj"
 }

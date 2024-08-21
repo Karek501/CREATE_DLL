@@ -69,6 +69,7 @@ include CMakeFiles/MyApp.dir/progress.make
 include CMakeFiles/MyApp.dir/flags.make
 
 CMakeFiles/MyApp.dir/src/main.cpp.obj: CMakeFiles/MyApp.dir/flags.make
+CMakeFiles/MyApp.dir/src/main.cpp.obj: CMakeFiles/MyApp.dir/includes_CXX.rsp
 CMakeFiles/MyApp.dir/src/main.cpp.obj: D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/src/main.cpp
 CMakeFiles/MyApp.dir/src/main.cpp.obj: CMakeFiles/MyApp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyApp.dir/src/main.cpp.obj"
@@ -92,7 +93,7 @@ MyApp_EXTERNAL_OBJECTS =
 D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/src/main.cpp.obj
 D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/build.make
 D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/compiler_depend.ts
-D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe: D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/OperatorManagerWrapper.dll
+D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe: D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll.a
 D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/linkLibs.rsp
 D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/objects1.rsp
 D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe: CMakeFiles/MyApp.dir/link.txt

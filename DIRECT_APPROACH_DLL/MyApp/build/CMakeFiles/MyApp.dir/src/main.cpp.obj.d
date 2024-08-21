@@ -127,6 +127,6 @@ CMakeFiles/MyApp.dir/src/main.cpp.obj: \
  E:/msys64/mingw64/include/c++/13.1.0/bits/ostream.tcc \
  E:/msys64/mingw64/include/c++/13.1.0/istream \
  E:/msys64/mingw64/include/c++/13.1.0/bits/istream.tcc \
- D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\src\Wrapper.h \
- D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\src\Manager.h \
- D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\src\Operator.h
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/Wrapper.h \
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/Manager.h \
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/Operator.h

@@ -14,7 +14,9 @@
 		"commands" : 
 		[
 			"add_executable",
-			"target_link_libraries"
+			"target_link_directories",
+			"target_link_libraries",
+			"target_include_directories"
 		],
 		"files" : 
 		[
@@ -34,7 +36,19 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 32,
+				"line" : 38,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 37,
 				"parent" : 0
 			}
 		]
@@ -46,6 +60,13 @@
 			[
 				{
 					"fragment" : "-g -std=gnu++11"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs"
 				}
 			],
 			"language" : "CXX",
@@ -82,7 +103,12 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "D:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyApp\\OperatorManagerWrapper.dll",
+				"fragment" : "-LD:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyApp\\libs",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "D:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyApp\\libs\\libOperatorManagerWrapper.dll.a",
 				"role" : "libraries"
 			},
 			{

@@ -3,9 +3,9 @@
 
 CMakeFiles/MyApp.dir/src/main.cpp.obj
  D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/src/main.cpp
- D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/src/Manager.h
- D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/src/Operator.h
- D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/src/Wrapper.h
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/Manager.h
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/Operator.h
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/Wrapper.h
  E:/msys64/mingw64/include/_mingw.h
  E:/msys64/mingw64/include/_mingw_mac.h
  E:/msys64/mingw64/include/_mingw_off_t.h
@@ -139,4 +139,30 @@ CMakeFiles/MyApp.dir/src/main.cpp.obj
  E:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h
  E:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h
  E:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h
+
+D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/build/CMakeFiles/MyApp.dir/objects.a
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll.a
+ E:/msys64/mingw64/lib/crt2.o
+ E:/msys64/mingw64/lib/default-manifest.o
+ E:/msys64/mingw64/lib/libadvapi32.a
+ E:/msys64/mingw64/lib/libcomdlg32.a
+ E:/msys64/mingw64/lib/libgcc_s.a
+ E:/msys64/mingw64/lib/libgdi32.a
+ E:/msys64/mingw64/lib/libkernel32.a
+ E:/msys64/mingw64/lib/libmingw32.a
+ E:/msys64/mingw64/lib/libmingwex.a
+ E:/msys64/mingw64/lib/libmoldname.a
+ E:/msys64/mingw64/lib/libmsvcrt.a
+ E:/msys64/mingw64/lib/libole32.a
+ E:/msys64/mingw64/lib/liboleaut32.a
+ E:/msys64/mingw64/lib/libpthread.dll.a
+ E:/msys64/mingw64/lib/libshell32.a
+ E:/msys64/mingw64/lib/libstdc++.dll.a
+ E:/msys64/mingw64/lib/libuser32.a
+ E:/msys64/mingw64/lib/libuuid.a
+ E:/msys64/mingw64/lib/libwinspool.a
+ E:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o
+ E:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+ E:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/libgcc.a
 
