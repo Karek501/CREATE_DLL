@@ -3,6 +3,8 @@ D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\bin\MyApp.exe: 
   E:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o \
   CMakeFiles\MyApp.dir/objects.a \
   D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll.a \
+  D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll \
+  D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll \
   E:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/libkernel32.a \
   E:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/libuser32.a \
   E:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/libgdi32.a \
@@ -43,6 +45,10 @@ E:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o:
 CMakeFiles\MyApp.dir/objects.a:
 
 D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll.a:
+
+D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll:
+
+D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll:
 
 E:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/libkernel32.a:
 

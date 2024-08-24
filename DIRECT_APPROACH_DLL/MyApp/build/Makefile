@@ -128,6 +128,19 @@ MyApp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyApp.dir\build.make CMakeFiles/MyApp.dir/build
 .PHONY : MyApp/fast
 
+#=============================================================================
+# Target rules for targets named include
+
+# Build rule for target.
+include: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 include
+.PHONY : include
+
+# fast build rule for target.
+include/fast:
+	$(MAKE) $(MAKESILENT) -f include\CMakeFiles\include.dir\build.make include/CMakeFiles/include.dir/build
+.PHONY : include/fast
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -161,6 +174,7 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... MyApp
+	@echo ... include
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

@@ -1,0 +1,1 @@
+add_library(include LOAD_libOperatorManagerWrapper.h LOAD_libOperatorManagerWrapper.cpp)

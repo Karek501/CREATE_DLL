@@ -115,6 +115,44 @@ depend:
 	cd /d D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
+# Convenience name for target.
+include/CMakeFiles/include.dir/rule:
+	cd /d D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 include/CMakeFiles/include.dir/rule
+.PHONY : include/CMakeFiles/include.dir/rule
+
+# Convenience name for target.
+include: include/CMakeFiles/include.dir/rule
+.PHONY : include
+
+# fast build rule for target.
+include/fast:
+	cd /d D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\build && $(MAKE) $(MAKESILENT) -f include\CMakeFiles\include.dir\build.make include/CMakeFiles/include.dir/build
+.PHONY : include/fast
+
+LOAD_libOperatorManagerWrapper.obj: LOAD_libOperatorManagerWrapper.cpp.obj
+.PHONY : LOAD_libOperatorManagerWrapper.obj
+
+# target to build an object file
+LOAD_libOperatorManagerWrapper.cpp.obj:
+	cd /d D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\build && $(MAKE) $(MAKESILENT) -f include\CMakeFiles\include.dir\build.make include/CMakeFiles/include.dir/LOAD_libOperatorManagerWrapper.cpp.obj
+.PHONY : LOAD_libOperatorManagerWrapper.cpp.obj
+
+LOAD_libOperatorManagerWrapper.i: LOAD_libOperatorManagerWrapper.cpp.i
+.PHONY : LOAD_libOperatorManagerWrapper.i
+
+# target to preprocess a source file
+LOAD_libOperatorManagerWrapper.cpp.i:
+	cd /d D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\build && $(MAKE) $(MAKESILENT) -f include\CMakeFiles\include.dir\build.make include/CMakeFiles/include.dir/LOAD_libOperatorManagerWrapper.cpp.i
+.PHONY : LOAD_libOperatorManagerWrapper.cpp.i
+
+LOAD_libOperatorManagerWrapper.s: LOAD_libOperatorManagerWrapper.cpp.s
+.PHONY : LOAD_libOperatorManagerWrapper.s
+
+# target to generate assembly for a file
+LOAD_libOperatorManagerWrapper.cpp.s:
+	cd /d D:\Recherches\MyCPlusPlus\DLL_creation\DIRECT_APPROACH_DLL\MyApp\build && $(MAKE) $(MAKESILENT) -f include\CMakeFiles\include.dir\build.make include/CMakeFiles/include.dir/LOAD_libOperatorManagerWrapper.cpp.s
+.PHONY : LOAD_libOperatorManagerWrapper.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -123,6 +161,10 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... include
+	@echo ... LOAD_libOperatorManagerWrapper.obj
+	@echo ... LOAD_libOperatorManagerWrapper.i
+	@echo ... LOAD_libOperatorManagerWrapper.s
 .PHONY : help
 
 

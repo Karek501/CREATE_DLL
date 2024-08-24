@@ -30,25 +30,43 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 29,
+				"line" : 28,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 38,
+				"line" : 41,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 41,
+				"line" : 43,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 44,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 37,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 31,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 32,
 				"parent" : 0
 			}
 		]
@@ -65,7 +83,15 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 4,
+					"backtrace" : 5,
+					"path" : "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/src"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/include"
+				},
+				{
+					"backtrace" : 7,
 					"path" : "D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs"
 				}
 			],
@@ -109,6 +135,11 @@
 			{
 				"backtrace" : 3,
 				"fragment" : "D:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyApp\\libs\\libOperatorManagerWrapper.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "D:\\Recherches\\MyCPlusPlus\\DLL_creation\\DIRECT_APPROACH_DLL\\MyApp\\libs\\libOperatorManagerWrapper.dll",
 				"role" : "libraries"
 			},
 			{

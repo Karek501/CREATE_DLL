@@ -1,0 +1,2 @@
+E:\msys64\mingw64\bin\ar.exe qc libinclude.a CMakeFiles/include.dir/LOAD_libOperatorManagerWrapper.cpp.obj
+E:\msys64\mingw64\bin\ranlib.exe libinclude.a

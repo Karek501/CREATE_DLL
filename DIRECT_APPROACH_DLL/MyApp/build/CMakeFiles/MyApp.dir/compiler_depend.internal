@@ -3,6 +3,7 @@
 
 CMakeFiles/MyApp.dir/src/main.cpp.obj
  D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/src/main.cpp
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/include/LOAD_libOperatorManagerWrapper.h
  D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/Manager.h
  D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/Operator.h
  D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/Wrapper.h
@@ -142,6 +143,7 @@ CMakeFiles/MyApp.dir/src/main.cpp.obj
 
 D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/bin/MyApp.exe
  D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/build/CMakeFiles/MyApp.dir/objects.a
+ D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll
  D:/Recherches/MyCPlusPlus/DLL_creation/DIRECT_APPROACH_DLL/MyApp/libs/libOperatorManagerWrapper.dll.a
  E:/msys64/mingw64/lib/crt2.o
  E:/msys64/mingw64/lib/default-manifest.o

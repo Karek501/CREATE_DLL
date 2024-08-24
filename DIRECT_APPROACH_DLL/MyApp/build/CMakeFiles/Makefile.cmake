@@ -58,4 +58,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/MyApp.dir/DependInfo.cmake"
+  "include/CMakeFiles/include.dir/DependInfo.cmake"
   )
